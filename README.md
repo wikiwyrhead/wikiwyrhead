@@ -4,8 +4,7 @@
 Full-stack WordPress Developer | Plugin Dev | Open Source Enthusiast | ITguy
 ```
 
-🔥⚡ **Welcome to my GitHub!** 🖥️💡  
-I’m all about Information technology, Webdev, coding, performance tweaks, and building slick WordPress plugins. Always experimenting with **PHP, JavaScript, and WordPress** to craft something new and better solutions.  
+I’m all about Information technology, webdev, SEO, coding, performance tweaks, and building slick WordPress plugins. Always experimenting with **PHP, JavaScript, and WordPress** to craft something new and better solutions.  
 
 ---
 

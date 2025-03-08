@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding, development, and cont
 ---
 
 ### 🔥 Streak & Contributions:
-![GitHub Streak](https://streak-stats.demolab.com?user=wikiwyrhead&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wikiwyrhead&theme=tokyonight&hide_border=true)
 
 ---
 

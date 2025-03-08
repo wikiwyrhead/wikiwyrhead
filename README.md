@@ -1,38 +1,55 @@
-### Hi there, I'm **WikiWyrhead**! 👋
+## 👨‍💻 Hey, I'm **arnelG**! 🚀
 
-Welcome to my GitHub profile! I'm passionate about coding, development, and continuous learning. Here, you'll find some of my projects, contributions, and experiments in software development.
+```yaml
+Full-stack WordPress Developer | Plugin Maker | Open Source Enthusiast
+```
 
----
-
-### 🚀 About Me:
-- 💻 **Full-stack WordPress Developer**
-- 🔌 I love creating **useful WordPress plugins**
-- 🎯 Focused on building efficient and elegant solutions
-- 🌱 Currently learning advanced **PHP & JavaScript**
-- 🔧 Working on exciting open-source projects
+Welcome to my GitHub! I love coding, optimizing performance, and making cool WordPress plugins. Always tinkering with **PHP, JavaScript, and WordPress** to create efficient solutions.
 
 ---
 
-### 📊 My GitHub Stats:
+### 💡 Quote:
+> "Stay hungry and always embrace the beginner's mindset."
 
-![WikiWyrhead's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wikiwyrhead&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikiwyrhead&layout=compact&theme=tokyonight&hide_border=true)
+### 🛠️ Tech Stack:
+```json
+{
+  "Frontend": ["HTML", "CSS", "JavaScript"],
+  "Backend": ["PHP", "WordPress", "MySQL"],
+  "Tools": ["Git", "VS Code", "Elementor", "Gutenberg"]
+}
+```
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wikiwyrhead&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikiwyrhead&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🔥 Streak & Contributions:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wikiwyrhead&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=wikiwyrhead&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📫 Connect with Me:
+### 📡 Connect with Me:
 - 🌐 [Website](https://arnelgo.info/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnelgo)
 - 🎨 [Behance](https://www.behance.net/arnielgo7b84)
 
-💡 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
-
+```c
+// My Coding Philosophy
+if (code.isSimple && code.isClear && code.isEfficient) {
+    return "Success!";
+} else {
+    refactor();
+}
+```
 ---
-
-🔹 *Feel free to explore my repositories and contribute!* 🎉
+🔹 *Explore my repositories and contribute if you like!* 😃

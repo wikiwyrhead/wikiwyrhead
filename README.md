@@ -31,10 +31,8 @@ Welcome to my GitHub! I love coding, optimizing performance, and making cool Wor
 
 ---
 
-### 🔥 Streak & Contributions:
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=wikiwyrhead&theme=tokyonight&hide_border=true)
-</p>
+## 🔥 Streak & Contributions:
+![GitHub Streak](https://streak-stats.demolab.com?user=wikiwyrhead&theme=tokyonight&hide_border=true)
 
 ---
 

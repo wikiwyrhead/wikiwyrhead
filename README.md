@@ -1,7 +1,7 @@
 ## 👨‍💻 Hey, I'm **arnelG**! 🚀
 
 ```yaml
-Full-stack WordPress Developer | Plugin Maker | Open Source Enthusiast
+Full-stack WordPress Developer | Plugin Maker | Open Source Enthusiast | ITguy
 ```
 
 Welcome to my GitHub! I love coding, optimizing performance, and making cool WordPress plugins. Always tinkering with **PHP, JavaScript, and WordPress** to create efficient solutions.

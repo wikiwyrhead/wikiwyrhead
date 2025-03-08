@@ -33,7 +33,7 @@ Welcome to my GitHub! I love coding, optimizing performance, and making cool Wor
 
 ### 🔥 Streak & Contributions:
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=wikiwyrhead&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=wikiwyrhead&theme=tokyonight&hide_border=true)
 </p>
 
 ---

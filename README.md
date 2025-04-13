@@ -36,7 +36,7 @@ I’m all about Information technology, webdev, SEO, coding, performance tweaks,
 ---
 
 ### 📡 Connect with Me:
-- 🌐 [Website](https://arnelgo.info/)
+- 🌐 [Website](https://www.arnelbg.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnelgo)
 - 🎨 [Behance](https://www.behance.net/arnielgo7b84)
 

@@ -7,7 +7,7 @@ Full-stack WordPress Developer | Plugin Dev | Open Source Contributor | Filipino
 I’m into everything tech—WordPress, web dev, SEO, coding, performance tweaks, and crafting plugins that make life easier for users and clients. I love working with **PHP, JavaScript, and WordPress**, and I’m always on the lookout for ways to improve my workflow or build something better.  
 
 > 💡 *"Stay hungry and always embrace the beginner's mindset."*  
-That mindset keeps me grounded—always learning, solving real problems, and shipping clean solutions.
+That mindset keeps me grounded—constantly learning, addressing real-world challenges, and building clean, effective solutions.
 
 ---
 

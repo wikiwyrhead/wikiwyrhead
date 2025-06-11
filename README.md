@@ -35,10 +35,10 @@ I’m all about Information technology, webdev, SEO, coding, performance tweaks,
 
 ---
 
-### 📡 Connect with Me:
-- 🌐 <a href="https://www.arnelbg.com/" target="_blank">Website</a>
-- 💼 <a href="https://www.linkedin.com/in/arnelgo" target="_blank">LinkedIn</a>
-- 🎨 <a href="https://www.behance.net/arnielgo7b84" target="_blank">Behance</a>
+### 📡 Connect with Me
+[![🌐 Website](https://img.shields.io/badge/Website-arnelbg.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.arnelbg.com)
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-arnelgo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnelgo)
+[![🎨 Behance](https://img.shields.io/badge/Behance-arnielgo7b84-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/arnielgo7b84)\
 
 ```c
 // My Coding Philosophy

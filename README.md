@@ -36,9 +36,9 @@ I’m all about Information technology, webdev, SEO, coding, performance tweaks,
 ---
 
 ### 📡 Connect with Me:
-- 🌐 [Website](https://www.arnelbg.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/arnelgo)
-- 🎨 [Behance](https://www.behance.net/arnielgo7b84)
+- 🌐 <a href="https://www.arnelbg.com/" target="_blank">Website</a>
+- 💼 <a href="https://www.linkedin.com/in/arnelgo" target="_blank">LinkedIn</a>
+- 🎨 <a href="https://www.behance.net/arnielgo7b84" target="_blank">Behance</a>
 
 ```c
 // My Coding Philosophy

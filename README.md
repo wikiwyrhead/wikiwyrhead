@@ -1,7 +1,7 @@
 ## 👨‍💻 Hey, I'm **arnelG**! 🚀
 
 ```yaml
-Full-stack WordPress Developer | Plugin Dev | Open Source Contributor | Filipino IT Guy
+Web/WordPress Developer | Plugin Developer | Open Source Contributor | Filipino IT Guy
 ```
 
 I’m into everything tech—WordPress, web dev, SEO, coding, performance tweaks, and crafting plugins that make life easier for users and clients. I love working with **PHP, JavaScript, and WordPress**, and I’m always on the lookout for ways to improve my workflow or build something better.  

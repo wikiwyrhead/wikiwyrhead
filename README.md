@@ -28,7 +28,7 @@ That mindset keeps me grounded—constantly learning, addressing real-world chal
 - 🛠️ Integrated **Gutenberg blocks + Elementor widgets** for real-world use
 - 🔐 Implemented **secure forms and fields** using ACF, SCF, and more
 - 🌱 SEO-optimized websites that actually rank
-- 🌍 Migrated full WordPress stacks from GoDaddy to Hostinger CLI
+- 🌍 Migrated full WordPress stacks from GoDaddy to Hostinger
 
 ---
 

@@ -17,7 +17,7 @@ That mindset keeps me grounded—constantly learning, addressing real-world chal
   "Frontend": ["HTML", "CSS", "JavaScript"],
   "Backend": ["PHP", "WordPress", "MySQL"],
   "Tools": ["Git", "VS Code", "Elementor", "Gutenberg"],
-  "Hosting": ["Hostinger CLI", "cPanel", "Shared Hosting"]
+  "Hosting": ["Hostinger", "cPanel", "hpanel" vps, etc...]
 }
 ```
 

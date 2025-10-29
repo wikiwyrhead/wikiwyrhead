@@ -1,73 +1,89 @@
-## 👨‍💻 Hey, I'm **arnelG**! 🚀
+# Hey, I'm arnelG! 👋
 
-```yaml
-Web/WordPress Developer | Plugin Developer | Open Source Contributor | Filipino IT Guy
-```
+**Web Developer | WordPress Specialist | Plugin Developer | Open Source Contributor**
 
-I’m into everything tech—WordPress, web dev, SEO, coding, performance tweaks, and crafting plugins that make life easier for users and clients. I love working with **PHP, JavaScript, and WordPress**, and I’m always on the lookout for ways to improve my workflow or build something better.  
+I'm a Filipino developer passionate about building clean, efficient WordPress solutions. I specialize in custom plugin development, performance optimization, and creating seamless user experiences for clients across non-profits, SMEs, and various industries.
 
-> 💡 *"Stay hungry and always embrace the beginner's mindset."*  
-That mindset keeps me grounded—constantly learning, addressing real-world challenges, and building clean, effective solutions.
+> 💡 *"Stay hungry and always embrace the beginner's mindset."*
 
 ---
 
-### 🛠️ Tech Stack & Tools I Use
-```json
-{
-  "Frontend": ["HTML", "CSS", "JavaScript"],
-  "Backend": ["PHP", "WordPress", "MySQL"],
-  "Tools": ["Git", "VS Code", "Elementor", "Gutenberg"],
-  "Hosting": ["Hostinger", "cPanel", "hpanel" vps, etc...]
-}
-```
+## 🛠️ Tech Stack
+
+**Frontend**  
+`HTML` `CSS` `JavaScript` `Elementor` `Gutenberg`
+
+**Backend**  
+`PHP` `WordPress` `MySQL`
+
+**Tools & Environment**  
+`Git` `VS Code` `cPanel` `hPanel` `Hostinger VPS`
 
 ---
 
-### 🏆 Career Highlights
-- 🧩 Built **custom plugins** tailored for non-profits and SMEs
-- 🛠️ Integrated **Gutenberg blocks + Elementor widgets** for real-world use
-- 🔐 Implemented **secure forms and fields** using ACF, SCF, and more
-- 🌱 SEO-optimized websites that actually rank
-- 🌍 Migrated full WordPress stacks from GoDaddy to Hostinger
+## 🎯 What I Do
+
+- 🧩 Develop **custom WordPress plugins** tailored for specific client needs
+- 🎨 Build **Gutenberg blocks** and **Elementor widgets** for enhanced functionality
+- 🔐 Implement **secure forms and custom fields** using ACF and Smart Custom Fields
+- 🚀 **Performance optimization** for WordPress sites
+- 🔍 **SEO implementation** and technical optimization
+- 🌐 **Site migrations** and server management
+- 💼 Work with clients in logistics, charity, education, and small businesses
 
 ---
 
-### 📌 What I’m Exploring Now
-- ⚙️ Building a lightweight WordPress plugin boilerplate
-- 🧠 Deepening PHP OOP knowledge for better architecture
-- 📲 Exploring headless WordPress + Astro.js
-- 💻 Performance tweaks for Elementor-heavy websites
-- 🔍 Working with real clients in logistics, charity, and education
+## 🌱 Currently Exploring
+
+- Building a lightweight, modular WordPress plugin boilerplate
+- Deepening PHP OOP knowledge and design patterns
+- Headless WordPress architecture
+- WordPress Multisite strategies
+- Performance optimization techniques for Elementor-heavy sites
 
 ---
 
-### 📊 GitHub Activity
+## 🏆 Experience Highlights
 
-<!-- Optional: Move lower to avoid looking like filler -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=wikiwyrhead&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikiwyrhead&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+- Custom plugin development for non-profits and SMEs
+- Integrated secure form solutions with advanced field logic
+- SEO-optimized websites with measurable ranking improvements
+- Full WordPress migrations across hosting platforms
+- Real-world client projects in logistics, charity, and education sectors
 
 ---
 
-```c
-// My Coding Philosophy
-if (code.isSimple && code.isClear && code.isEfficient) {
-    return "Success!";
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wikiwyrhead&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikiwyrhead&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 💭 My Coding Philosophy
+```php
+if ($code->isSimple() && $code->isClear() && $code->isEfficient()) {
+    return 'Ship it!';
 } else {
-    refactor();
+    $code->refactor();
 }
 ```
 
 ---
 
-## 📡 Connect with Me
+## 📫 Let's Connect
 
-[![🌐 Website](https://img.shields.io/badge/Website-arnelbg.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.arnelbg.com)  
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-arnelgo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnelgo)  
-[![🎨 Behance](https://img.shields.io/badge/Behance-arnielgo7b84-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/arnielgo7b84)
+[![Website](https://img.shields.io/badge/Website-arnelbg.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.arnelbg.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnelgo)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/arnielgo7b84)
 
 ---
 
-🔹 *Check out my work — most of the good stuff runs quietly behind real client sites.* 😄
+<div align="center">
+
+**Most of my best work runs quietly behind real client sites** 🚀
+
+*Open to collaboration on WordPress projects and plugin development*
+
+</div>

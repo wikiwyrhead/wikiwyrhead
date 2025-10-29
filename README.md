@@ -2,7 +2,7 @@
 
 **Web Developer | WordPress Specialist | Plugin Developer | Open Source Contributor**
 
-I'm a Filipino developer passionate about building clean, efficient WordPress solutions. I specialize in custom plugin development, performance optimization, and creating seamless user experiences for clients across non-profits, SMEs, and various industries.
+I'm a Filipino developer passionate about building clean, efficient WordPress solutions. I do custom development, performance optimization, and creating seamless user experiences for clients across non-profits, SMEs, and various industries.
 
 > 💡 *"Stay hungry and always embrace the beginner's mindset."*
 

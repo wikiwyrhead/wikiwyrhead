@@ -1,27 +1,29 @@
 # Arnel G.
 
-**WordPress Developer | Plugin & Automation Specialist**
+WordPress Developer | Plugin & Automation Specialist
 
-I build clean, fast, and reliable WordPress websites and custom plugins. I create workflow automations, use AI tools to assist coding, and focus on performance, security, and great user experience.
+I build clean, fast, and reliable WordPress websites and custom plugins.  
+I create workflow automations and use AI tools to assist development.  
+My focus is performance, security, and long-term maintainability.
 
 ---
 
 ## Technologies
 
-**Backend**  
+Backend  
 PHP • WordPress • MySQL
 
-**Frontend**  
+Frontend  
 HTML • CSS • JavaScript • Gutenberg • Elementor
 
-**Tools**  
-Git • VS Code • cPanel • Hostinger VPS
+Tools  
+Git • VS Code • VPS • cPanel
 
 ---
 
 ## Expertise
 
-- Custom plugin development  
+- Custom WordPress plugin development  
 - Workflow automations  
 - Performance optimization  
 - Secure forms and advanced functionality  
@@ -32,17 +34,17 @@ Git • VS Code • cPanel • Hostinger VPS
 
 ## GitHub Stats
 
-## <image-card alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wikiwyrhead&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" ></image-card>
-<image-card alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikiwyrhead&layout=compact&theme=tokyonight&hide_border=true" ></image-card>
+![Arnel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wikiwyrhead&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikiwyrhead&layout=compact&hide_border=true)
 
 ---
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-ARNELBG.COM-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.arnelbg.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnelgo)  
-[![Behance](https://img.shields.io/badge/Behance-PORTFOLIO-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/arnielgo7b84)
+Website: https://www.arnelbg.com  
+LinkedIn: https://www.linkedin.com/in/arnelgo  
 
 ---
 
-Open to WordPress projects and collaborations.
+Open to WordPress projects, plugin development, and technical collaborations.

@@ -1,5 +1,3 @@
-# WordPress Developer | Plugin & Automation Specialist
-
 I build clean, fast, and reliable WordPress websites and custom plugins.
 I create workflow automations and use AI tools to assist development.
 My focus is performance, security, and long-term maintainability.

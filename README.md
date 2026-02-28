@@ -2,8 +2,8 @@
 
 WordPress Developer | Plugin & Automation Specialist
 
-I build clean, fast, and reliable WordPress websites and custom plugins.  
-I create workflow automations and use AI tools to assist development.  
+I build clean, fast, and reliable WordPress websites and custom plugins.
+I create workflow automations and use AI tools to assist development.
 My focus is performance, security, and long-term maintainability.
 
 ---
@@ -27,16 +27,21 @@ Git • VS Code • VPS • cPanel
 - Workflow automations  
 - Performance optimization  
 - Secure forms and advanced functionality  
-- Gutenberg blocks and Elementor widgets  
+- Gutenberg blocks, Avada Builder and Elementor widgets
 - Technical SEO and site migrations  
 
 ---
 
-## GitHub Stats
+## Activity Overview
 
-![Arnel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wikiwyrhead&show_icons=true&hide_border=true&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wikiwyrhead&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikiwyrhead&layout=compact&hide_border=true)
+---
+
+## Selected Work
+
+Most of my best work runs quietly behind real client websites.
+Custom solutions are built for performance, maintainability, and scalability.
 
 ---
 

@@ -23,7 +23,7 @@ Git • VS Code • VPS • cPanel
 - Workflow automations  
 - Performance optimization  
 - Secure forms and advanced functionality  
-- Gutenberg blocks, Avada Builder and Elementor widgets
+- Gutenberg blocks, Elementor, Custom theme
 - Technical SEO and site migrations  
 
 ---

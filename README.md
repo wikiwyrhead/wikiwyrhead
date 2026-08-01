@@ -7,7 +7,7 @@ My focus is performance, security, long-term maintainability, and practical prob
 ## Technologies
 
 Backend  
-PHP • WordPress • MySQL • Laravel basics
+PHP • WordPress • MySQL • Laravel
 
 Frontend  
 HTML • CSS • JavaScript • Gutenberg • Elementor • ACF
